@@ -1,6 +1,6 @@
 # Generador de Playbooks Tácticos — Más Allá del Gol
 
-Herramienta web para crear análisis tácticos visuales completos: editor de metadatos del
+Herramienta web  para crear análisis tácticos visuales completos: editor de metadatos del
 partido, 7 tipos de bloques de contenido, subida de imágenes y exportación a PDF.
 
 Es una única página web autocontenida (`generador-playbook-standalone.html`) — no necesita
